@@ -1,0 +1,16 @@
+body{
+  font-family:"tahoma";
+  color:crimson;
+  background-color: antiquewhite;
+}
+
+h1 {
+  color: rgba(218, 17, 17, 0.589);
+  text-align:center;
+  font-size: 3.5em
+}
+
+h2 {
+  color:rgb(182, 138, 223);
+  text-align:left;
+}
